@@ -1,1 +1,1 @@
-# This program converts temperature from Celsuius to Kelvin. 
+# This program converts temperature from Celsius to Kelvin. 
