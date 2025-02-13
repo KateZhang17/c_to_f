@@ -1,1 +1,1 @@
-# c_to_f
+# This program converts temperature from Celsuius to Kelvin. 
